@@ -125,13 +125,6 @@ PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
 SYSTEM_OPTIMIZE_JAVA := true
 SYSTEMUI_OPTIMIZE_JAVA := true
 
-#Lawnchair
-$(call inherit-product-if-exists, vendor/lawnchair/lawnchair.mk)
-
-#Material Files
-PRODUCT_PACKAGES += \
-    MaterialFiles
-
 # MTE
 PRODUCT_SYSTEM_EXT_PROPERTIES += \
     persist.arm64.memtag.system_server=off
