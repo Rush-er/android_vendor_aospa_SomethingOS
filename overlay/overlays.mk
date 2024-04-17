@@ -60,6 +60,18 @@ PRODUCT_PACKAGES += \
     IconPackRoundedSettingsOverlay \
     IconPackRoundedSystemUIOverlay \
     IconPackRoundedThemePickerOverlay \
+    IconPackOOSAndroidOverlay \
+	IconPackOOSLauncherOverlay \
+	IconPackOOSSettingsOverlay \
+	IconPackOOSSystemUIOverlay \
+	IconPackAcherusAndroidOverlay \
+	IconPackAcherusLauncherOverlay \
+	IconPackAcherusSettingsOverlay \
+	IconPackAcherusSystemUIOverlay \
+	IconPackOutlineAndroidOverlay \
+	IconPackOutlineLauncherOverlay \
+	IconPackOutlineSettingsOverlay \
+	IconPackOutlineSystemUIOverlay \
     IconShapePebbleOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \
